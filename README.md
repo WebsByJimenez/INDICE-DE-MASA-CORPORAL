@@ -30,3 +30,9 @@ calculadora-imc/
 ├── index.html
 ├── .gitignore
 └── README.md
+
+## 👤 Autor
+Desarrollado por **WebsByJimenez**
+
+## 🌐 Aplicación en Vivo
+[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/INDICE-DE-MASA-CORPORAL/)
