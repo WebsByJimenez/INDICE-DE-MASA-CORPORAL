@@ -9,5 +9,4 @@ Una calculadora interactiva y moderna de Índice de Masa Corporal (IMC).
 ## 👤 Autor
 Desarrollado por WebsByJimenez
 
-## 🌐 Aplicación en Vivo
-[🔗 Haz clic aquí para ver la aplicación en vivo](https://websbyjimenez.github.io/INDICE-DE-MASA-CORPORAL/)
+
